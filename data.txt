@@ -1,0 +1,7 @@
+a = t 
+s = 0
+x = a
+print not (s or (not s and not ( not 0) ) )
+print 0 1 
+print a
+
